@@ -16,3 +16,5 @@
    `git push origin --delete tagName`
    
 
+## finally image added
+![img](https://github.com/mahaElmorsy/itiGit2/blob/main/imgs/gitlab2.png)
